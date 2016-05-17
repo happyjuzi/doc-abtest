@@ -1,6 +1,6 @@
 * [0.简介](README.md)
-* [1.AB测试入门指南](introduction/index.md)
-* [2.系统架构](architecture/index.md)
+* [AB测试入门指南](introduction/index.md)
+* [系统架构](architecture/index.md)
 * [3.流量策略](testflow/index.md)
 * [4.网络存储](storage/index.md)
 * [5.数据采集](testdata/index.md)
