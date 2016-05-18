@@ -1,6 +1,7 @@
 # 橘子A/B Test
 这是橘子娱乐研发的一套用于橘子娱乐APP的A/B testing系统。
 
+本文档使用gitbook发布，==> [文档地址](https://happyjuzi.gitbooks.io/doc-abtest/content/)
 
 ## 介绍
 
