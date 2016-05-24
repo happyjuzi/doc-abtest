@@ -5,5 +5,4 @@
 * [网络存储](storage/index.md)
 * [数据采集](testdata/index.md)
 * [操作后台](cms/index.md)
-* [第一次使用](testfirst/index.md)
 * [常见问题](problem/index.md)
